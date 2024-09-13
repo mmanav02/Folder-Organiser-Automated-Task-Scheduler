@@ -9,3 +9,4 @@ After execution (as administrator):
 
 ![Task Scheduler After](TS_after.png)
 
+Note: You will need to add the path to the SortItOut.py in the schedule.bat batch file.
